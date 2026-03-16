@@ -1,0 +1,41 @@
+{
+    "allow_delete": true,
+    "default_index": [
+        {
+            "start": null,
+            "step": null,
+            "stop": null
+        }
+    ],
+    "groups": [],
+    "hidden_tensors": [
+        "_embedding_shape",
+        "_embedding_id",
+        "_text_id",
+        "_id_id",
+        "_metadata_id"
+    ],
+    "tensor_names": {
+        "_embedding_id": "_embedding_id",
+        "_embedding_shape": "_embedding_shape",
+        "_id_id": "_id_id",
+        "_metadata_id": "_metadata_id",
+        "_text_id": "_text_id",
+        "embedding": "embedding",
+        "id": "id",
+        "metadata": "metadata",
+        "text": "text"
+    },
+    "tensors": [
+        "embedding",
+        "_embedding_shape",
+        "_embedding_id",
+        "text",
+        "_text_id",
+        "id",
+        "_id_id",
+        "metadata",
+        "_metadata_id"
+    ],
+    "version": "3.9.52"
+}
