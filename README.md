@@ -1,4 +1,4 @@
-# 1. Retrieval-Augmented-Generation-RAG-from-Scratch
+# 1. Retrieval-Augmented-Generation-RAG-from-Scratch(Keeping the Vector Store in a local directory)
 This repository is a comprehensive roadmap for mastering Retrieval-Augmented Generation (RAG). It transitions from foundational architectures to the modular, high-performance systems used in production environments.
 # 2. RAG Retrieval Architectures: Index-based vs. Embedding-based
 
